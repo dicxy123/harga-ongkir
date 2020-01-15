@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyExpress</string>
+    <string name="Hallo">Hallo,</string>
+    <string name="User">User</string>
+    <string name="Brand">JET</string>
+    <string name="Express">EXPRESS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Me">Me</string>
+    <string name="home">Home</string>
+    <string name="rates">Rates</string>
+    <string name="loginButton">Login</string>
+    <string name="LoginPlease">Silahkan Login</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Masukkan nama</string>
+    <string name="alamat_hint">Masukkan alamat</string>
+    <string name="tujuan_hint">Destination</string>
+    <string name="asal_hint">Origin</string>
+    <string name="reset">RESET</string>
+    <string name="Dimension">Items Weight:</string>
+    <string name="weigthText">0.0 KG</string>
+    <string name="saveButton">Save</string>
+    <string name="checkButton">Check</string>
+    <string name="Paket1">Paket YES:</string>
+    <string name="Paket2">Paket REG:</string>
+    <string name="logoutButton">Logout</string>
+</resources>
