@@ -1,4 +1,4 @@
 # Cek Harga Ongkir
-Aplikasi pengiriman barang menggunakan Android Studio. Terinspirasi dari MyJNE dan J&amp;T Express
+Aplikasi android studio hanya untuk mengecek biaya ongkir dari kota ke kota  JET EXPRESS.
 
 
